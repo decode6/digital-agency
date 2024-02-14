@@ -20,7 +20,7 @@ const Footer = () => {
               </a>
             </h1>
             <p className="">
-              Lorem ipsum dolor sit amet consectetur. Lorem ipsum dolor sit amet
+              Lorem ipsum dolor sit amet consectetur. Lorem ipsum dollor sit amet
               consectetur adipisicing elit. Possimus, voluptate.{" "}
             </p>
             <br />
@@ -80,7 +80,7 @@ const Footer = () => {
                   Social Links
                 </h1>
                 <div className="flex flex-col gap-3">
-                  <h1>Subscribe to our newsletter</h1>
+                  <h1>Subscribe to our Newsletter</h1>
                   <input
                     className="rounded-full px-3 py-1 text-black focus:border-sky-500 focus:outline-none focus:ring-2 focus:ring-sky-500 "
                     type="text"
