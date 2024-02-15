@@ -6,7 +6,7 @@ import {
   FaLocationArrow,
   FaMobileAlt,
 } from "react-icons/fa";
-
+//footer
 const Footer = () => {
   return (
     <div className="rounded-t-3xl bg-gradient-to-r from-violet-950 to-violet-900">
