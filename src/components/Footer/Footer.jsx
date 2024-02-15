@@ -20,7 +20,7 @@ const Footer = () => {
               </a>
             </h1>
             <p className="">
-              Lorem ipsum dolor sit amet consectetur. Lorem ipsum dollor sit amet
+              Lorem ipsum dolor amet consectetur. Lorem ipsum dollor sit amet
               consectetur adipisicing elit. Possimus, voluptate.{" "}
             </p>
             <br />
